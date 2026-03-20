@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Goal Oriented Task Manager",
+  "description": "An autonomous goal-to-action engine that scans your workspace and uses Google Search to find web resources and build roadmaps.",
+  "requestFramePermissions": [
+    "camera",
+    "display-capture"
+  ]
+}
